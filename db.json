@@ -1,0 +1,20 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "bulbizarre"
+    },
+    {
+      "id": 2,
+      "name": "herbizare"
+    },
+    {
+      "id": 3,
+      "name": "venusaur"
+    },
+    {
+      "id": 10,
+      "name": "caterpie"
+    }
+  ]
+}
